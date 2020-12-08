@@ -1,0 +1,1 @@
+train.isnull().sum()
